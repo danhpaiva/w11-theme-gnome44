@@ -1,7 +1,7 @@
 <h1 align="center"> 🎨 Gnome Theme for Windows 11 😄</h1>
 
 <p align="center">
-    <img src="./image/theme-properties.png">
+    <img src="./_img/theme.png">
 </p>
 
 <p align="center">
